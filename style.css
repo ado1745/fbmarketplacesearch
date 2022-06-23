@@ -1,0 +1,11 @@
+.priceBox {
+  margin-bottom: 20px;
+}
+
+#minPriceInput {
+  visibility: hidden;
+}
+
+#maxPriceInput {
+  visibility: hidden;
+}
